@@ -120,8 +120,6 @@ The Online Healthcare Management System is a web-based platform designed to stre
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For any queries or feedback, please contact [email@example.com].
+For any queries or feedback, please contact kushagrasingh334@gmail.com.
